@@ -1,0 +1,113 @@
+.selamat h3{
+    text-align: center;
+    color: #ffffff;
+    line-height: 10px;
+}
+.selamat p{
+    text-align: center;
+    color: #ffffff;
+}
+
+.daftarLR{
+    background: #ffffff;
+    padding: 30px;
+    border-radius:30px;
+}
+.daftarLR p{
+    line-height: 10px;
+    text-align: center;
+}
+.daftarLR a{
+    background: #409EFC;
+    width: 100%;
+    border-radius: 40px;
+}
+
+.ansacc p{
+    text-align: center;
+    color: #ffffff;
+}
+
+.footer{
+    background: #409EFC;
+    color: #ffffff;
+    padding: 20px;
+}
+.fcenter{
+    list-style: none;
+    position: relative;
+    font-size: 20px;
+}
+.fcenter li a{
+    display: block;
+    text-decoration: none;
+}
+.fkontakkami p{
+    font-size: 15px;
+    line-height: 5px;
+}
+
+.ansacc a{
+    background: #409EFC;
+    border-radius: 40px;
+}
+
+.kirimasukdaftar{
+    border: 1px solid #409EFC;
+    border-radius: 50px;
+    padding: 20px;
+    margin: 30px;
+}
+.logoatasmasuk img{
+    width: 100%;
+}
+.logoatasmasuk p{
+    color:409EFC;
+    font-size: 20px;
+}
+
+.foreminputbutton button{
+    border-radius: 20px;
+    width: 100%;
+    background: #409EFC;
+    color: #ffffff;
+}
+.foreminputbutton input{
+    border-radius: 20px;
+}
+.lks{
+    list-style: none;
+    text-align: left;
+}
+.lks li a{
+    color: #000000;
+    text-decoration: none;
+    font-size: 13px;
+}
+.foreminputbutton .butdaftardilogin{
+    border-radius: 20px;
+    width: 100%;
+    background: #ffffff;
+    color: #409EFC;
+}
+.foreminputbutton .butnext{
+    border-radius: 20px;
+    width: 100%;
+    background: #409EFC;
+    color: #ffffff;
+}
+.foreminputbutton p{
+    text-align: center;
+    color: #409EFC;
+}
+.kananmasukdaftar p{
+    font-size: 50px;
+    color: #409EFC;
+}
+.kananmasukdaftar img{
+    width: 100%;
+}
+.kananmasukdaftar .ikelas{
+    color: #42f0a5;
+    font-size: 60px;
+}
